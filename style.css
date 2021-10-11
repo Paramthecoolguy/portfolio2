@@ -1,0 +1,15 @@
+body{
+text-align:center;
+background-color:cyan;
+}
+a{
+margin-left:20px;
+margin-right:20px;
+}
+#cool{
+background-color:red;
+}
+#cool img{
+height:400px;
+width:500px;
+}
